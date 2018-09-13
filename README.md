@@ -2,7 +2,7 @@
 This project is an end to end data analysis of a tmdb movie dataset containing over 10.000 movie entries that were released between 1960 and 2015.
 
 ## Conclusion
-I assessed and analyzed the given TMDb dataset including over 10.000 movie enteries and their properties like budget, revenue, average viewer rating, and runtime dating between 1960 and 2015. The dataset has been cleaned and added new columns for success, title length (in characters), and rating groups (derived from vote_average).
+This study assesses and analyzes a given TMDb dataset including over 10.000 movie entries and their properties including budget, revenue, average viewer rating, and runtime dating between 1960 and 2015. The dataset has been cleaned and added new columns for success, title length (in characters), and rating groups (derived from vote_average).
 
 The analysis showed, that a positive correlation between popularity and rating, aswell as between success and rating could be seen. The title length however had no significant correlations with other properties of the dataset. By dividing the dataset in the middle into high and low budget movies, I observed that lower budget movies have higher ROIs. Higher budget movies have on average about 4.59 less ROI than lower budget movies. An insprection of the ratings categories by budget and ROI revealed minor differences in the average budgets and strong positive correlations for the ROI. The average ROI for very high ratings (top 25%) is 4.74.
 
