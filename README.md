@@ -1,4 +1,8 @@
 # TMDb Data Analysis
+Created: 09/08/2018
+Latest Update: 09/13/2018
+By: Can Bekleyici - bekleydata.com
+
 This project is an end to end data analysis of a tmdb movie dataset containing over 10.000 movie entries that were released between 1960 and 2015.
 
 ## Conclusion
